@@ -1,6 +1,6 @@
 # nwsradar
 
-Custom component for short range NWS radar loops for Home Assistant.
+Custom component for NWS radar loops for Home Assistant.
 
 <img src="https://github.com/MatthewFlamm/nws_radar/blob/master/images/radar.gif?raw=True" width="400px">
 
